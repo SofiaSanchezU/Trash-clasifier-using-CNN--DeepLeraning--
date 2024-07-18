@@ -33,7 +33,7 @@ https://git-scm.com/download/win
 
 ## Classes 
 <p align="center">
-  <img src="Images/clases.png" alt="Texto alternativo" width="400">
+  <img src="Images/clases.png" alt="Texto alternativo" width="800">
 </p> 
 
 0. cardboard 
@@ -49,5 +49,5 @@ Here we can see how the Loss and Acurrancy evolving over the training
 </p> 
 Here we can see the confusion matrix.  
 <p align="center">
-  <img src="Images/confusion.png" alt="Texto alternativo" width="400">
+  <img src="Images/confusion .png" alt="Texto alternativo" width="400">
 </p> 
