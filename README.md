@@ -45,7 +45,7 @@ https://git-scm.com/download/win
 # Simulations 
 Here we can see how the Loss and Acurrancy evolving over the training  
 <p align="center">
-  <img src="Images/training.png" alt="Texto alternativo" width="400">
+  <img src="Images/training.png" alt="Texto alternativo" width="500">
 </p> 
 Here we can see the confusion matrix.  
 <p align="center">
